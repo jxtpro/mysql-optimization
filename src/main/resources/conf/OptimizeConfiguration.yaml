@@ -1,0 +1,17 @@
+# 日志记录的路径
+debrisRecordLogPath: d:/log/debris
+# 记录的优化日志的路径
+optimizationRecordLogPath: d:/log/optimiza
+# 阈值超过 10M 进行记录日志
+debrisRecordingThreshold: 10
+# 阈值超过 10M 自动优化
+optimizationThreshold: 10
+# cron 表达式
+cronExpression: 0/10 * * * * ?
+# 1 修改engine模式 2 optimize
+# optimize 模式 支持 mysql存储引擎为MYISAM且锁表
+optimizationMode: 1
+jdbcUrl: jdbc:mysql://localhost:3306/test?serverTimezone=UTC
+userName: root
+passWord: abc.123
+driverClassName: com.mysql.cj.jdbc.Driver

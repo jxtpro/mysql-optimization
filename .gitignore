@@ -1,0 +1,47 @@
+.idea
+.idea/
+*.iml
+*.jmx
+logs
+.settings/
+.project
+target/
+rebel.xml
+
+node_modules
+
+/dist
+/.vscode
+
+# test
+
+# misc
+.DS_Store
+npm-debug.log*
+yarn-error.log
+
+/coverage
+.idea
+yarn.lock
+package-lock.json
+*bak
+.vscode
+
+dist
+
+# visual studio code
+.history
+*.log
+functions/*
+.temp/**
+
+# umi
+.umi
+.umi-production
+
+# screenshot
+screenshot
+.firebase
+.eslintcache
+
+build
