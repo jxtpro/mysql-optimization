@@ -17,9 +17,8 @@
 
 ###### 核心流程
 
-![image-20201006004936012](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20201006004936012.png)
+![核心流程](https://github.com/jxtpro/mysql-optimization/raw/master/screenshot/core-1.png)
 
 
-
-![image-20201006115507801](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20201006115507801.png)
+![核心类设计](https://github.com/jxtpro/mysql-optimization/raw/master/screenshot/core-2.png)
 
