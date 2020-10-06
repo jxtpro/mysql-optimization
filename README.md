@@ -17,8 +17,8 @@
 
 ###### 核心流程
 
-![核心流程](screenshot/core-1.png)
+![核心流程](https://github.com/jxtpro/mysql-optimization/blob/master/screenshot/core-1.png)
 
 
-![核心类设计](screenshot/core-2.png)
+![核心类设计](https://github.com/jxtpro/mysql-optimization/blob/master/screenshot/core-2.png)
 
